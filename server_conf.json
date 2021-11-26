@@ -1,0 +1,9 @@
+{
+    "serverip" : "",
+    "serverport" : 8000,
+    "dbUserId" : "root",
+    "dbUserPwd" : "1",
+    "dbHost" : "127.0.0.1",
+    "dbName" : "NFT",
+    "dbPort" : 3306
+}
